@@ -1,3 +1,4 @@
+[English](README.md) | [中文]
 # 长大教务抢课助手 (Chrome 扩展)
 
 长安大学本科教务系统(bkjw.chd.edu.cn, 正方 eams)自动抢课扩展。
