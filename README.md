@@ -54,4 +54,6 @@ Targets are grabbed by priority (top to bottom); the first success stops the who
 
 ## License
 
-For personal educational use only. Use responsibly and at your own risk.
+This project is licensed under a custom personal-use license. See the [LICENSE](LICENSE) file for full terms.
+
+**TL;DR:** Personal learning, research, and self-deployment with your own account only. Commercial use, third-party services, and redistribution are prohibited. Use at your own risk.
